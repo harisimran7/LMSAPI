@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSAPI", "LMSAPI\LMSAPI.csproj", "{2008F198-1AEE-4E14-8EA6-579ADC6D1F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSData", "Data\LMSData.csproj", "{5E07D5B8-6958-4DC1-8C6A-4C86D2BB2D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSServices", "LMSServices\LMSServices.csproj", "{1E4A6F79-75D6-4A6F-B69B-20041839977E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2008F198-1AEE-4E14-8EA6-579ADC6D1F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2008F198-1AEE-4E14-8EA6-579ADC6D1F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2008F198-1AEE-4E14-8EA6-579ADC6D1F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2008F198-1AEE-4E14-8EA6-579ADC6D1F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E07D5B8-6958-4DC1-8C6A-4C86D2BB2D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E07D5B8-6958-4DC1-8C6A-4C86D2BB2D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E07D5B8-6958-4DC1-8C6A-4C86D2BB2D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E07D5B8-6958-4DC1-8C6A-4C86D2BB2D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4A6F79-75D6-4A6F-B69B-20041839977E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4A6F79-75D6-4A6F-B69B-20041839977E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4A6F79-75D6-4A6F-B69B-20041839977E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4A6F79-75D6-4A6F-B69B-20041839977E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E20559CB-2B1C-4A3E-BC37-1CECDC5E3B20}
+	EndGlobalSection
+EndGlobal
